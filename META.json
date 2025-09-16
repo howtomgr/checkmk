@@ -1,0 +1,63 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.335363",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "snmp",
+    "snmp-mibs-downloader"
+  ],
+  "description": "checkmk is a free and open-source IT monitoring. Checkmk provides comprehensive IT monitoring solution",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/checkmk",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/checkmk",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.335385",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "checkmk",
+  "repository_url": "https://github.com/howtomgr/checkmk",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "checkmk Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/checkmk"
+}
